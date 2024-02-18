@@ -1,5 +1,6 @@
-### Hi there 👋
-My email anderles111@gmail.com - ask me something)
+### Hi there 👋. I'm Andrii - Software Engineer.
+🔭 Can work with PHP, Node.js, Golang, etc
+💬 Ask me ask me something by <a href="mailto:anderles111@gmail.com">anderles111@gmail.com</a>)
 
 <!--
 **anderles/anderles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
