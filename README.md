@@ -1,5 +1,4 @@
 <h1 align="center">Hey, 👋 I'm Andrii - Software Engineer</h1>
----
 
 ### 🧠 About Me
 
