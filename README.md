@@ -44,7 +44,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriiboyko/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderles111@gmail.com) 🤔
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderles111@gmail.com)
 
 <!--
 **anderles/anderles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
