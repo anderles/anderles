@@ -3,6 +3,12 @@
 
 💬 Ask me ask me something by <a href="mailto:anderles111@gmail.com">anderles111@gmail.com</a>🤔
 
+### 💻 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
 <!--
 **anderles/anderles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
