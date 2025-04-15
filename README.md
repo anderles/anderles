@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋 I'm Andrii - Software Engineer</h1>
 
-### 🧠 About Me
+<!--### 🧠 About Me
 
 - 🔭 I work with Magento 2, Laravel, Symfony, Node.js, NestJS, Go, and Rust
 - ⚙️ Passionate about high-load architecture, APIs, microservices & clean code
@@ -8,9 +8,10 @@
 - 📚 Currently going deep into Rust & blockchain development
 - 🧪 Building scalable SaaS, e-commerce, CRM platforms & startup tech
 
----
 
-### 💻 Tech Stack
+--- -->
+
+<!--### 💻 Tech Stack-->
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
@@ -32,7 +33,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 <!--![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) -->
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
@@ -42,7 +43,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anderles&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitors](https://komarev.com/ghpvc/?username=anderles&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=anderles&color=blue&style=flat)-->
 
 
 ---
