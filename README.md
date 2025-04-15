@@ -38,6 +38,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anderles&show_icons=true&theme=radical&hide_title=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewboyko&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Let's Connect
